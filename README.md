@@ -1,1 +1,3 @@
 # serialplot
+
+pyserial and matplotlib
